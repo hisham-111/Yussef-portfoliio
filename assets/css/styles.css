@@ -1108,7 +1108,7 @@ img {
   }
 
   .section__subtitle {
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
   }
 
   .header {
@@ -1166,6 +1166,8 @@ img {
 
   .about__container {
     column-gap: 5rem;
+    display: flex;
+    align-items: center;
   }
 
   .about__img {
@@ -1227,6 +1229,7 @@ img {
     padding: 3rem 2.5rem 2rem;
     grid-template-columns: 1fr max-content;
     column-gap: 3rem;
+    border: 1.2px solid black;
   }
   .project__data {
     padding-top: 0.8rem;
@@ -1299,4 +1302,9 @@ img {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+
+.social-media-project{
+font-weight: bold;
 }
