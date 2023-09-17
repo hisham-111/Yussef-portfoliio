@@ -507,46 +507,48 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__Netwroking {
-  width: 64%;
+.skills__Flexibility {
+  width: 77%;
 }
-.skills__Troubleshooting {
+.skills__Resilience {
   width: 94%;
 }
-.skills__Ticketing {
-  width: 35%;
+.skills__Open-mindedness {
+  width: 91%;
 }
 
-.skills__Diagnostic {
+.skills__Problem-solving{
   width: 40%;
 }
 
-.skills__Optimization {
-  width: 30%;
-}
-
-.skills__analytics {
-  width: 35%;
-}
-
-.skills__Pmanagment {
+.skills__Collaboration {
   width: 75%;
 }
 
-.skills__Quality {
+.skills__Versatility {
+  width: 75%;
+}
+
+.skills__Precision {
+  width: 77%;
+}
+
+.skills__Up-to-date {
   width: 85%;
 }
 
-.skills__Optimization {
-  width: 45%;
+
+
+.skills__Communication {
+  width: 67%;
 }
 
-.skills__Analytics_Tools {
-  width: 27%;
+.skills__Expertise {
+  width: 70%;
 }
 
-.skills__PMs {
-  width: 40%;
+.skills__Reliability {
+  width: 93%;
 }
 
 .skills__close .skills__list {
